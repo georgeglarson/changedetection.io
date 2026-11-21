@@ -1,0 +1,22 @@
+changedetectionio/tests/unit/test_url_exists_concurrent_add.py
+  s_5453cd196ecf31::t_ca3786744e3cd7 1-38,41-85
+  s_5453cd196ecf31::t_6921e55953d6ad 39-40
+changedetectionio/store/__init__.py
+  s_5453cd196ecf31::t_66dc5839df58fb 690-698,900-901
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "38271f5d7d0c456708a3d6afe5cbb3b8c797d7b0",
+  "prompts": {},
+  "sessions": {
+    "s_5453cd196ecf31": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9609b35b-5333-44e1-bc08-55127ddca9c4",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "george larson <george.g.larson@gmail.com>"
+    }
+  }
+}
