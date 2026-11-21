@@ -1,0 +1,24 @@
+changedetectionio/tests/unit/test_url_exists_concurrent_add.py
+  s_5453cd196ecf31::t_ca3786744e3cd7 1-9,14-27,45-47,49-50,52,57-61,64-82,87-89,91-93,99-112
+  s_5453cd196ecf31::t_9b5a794d10c4e2 10-13,28-44,48,51,83-86,90,94-98
+  s_5453cd196ecf31::t_a0b43635f94568 53-56
+  s_5453cd196ecf31::t_6921e55953d6ad 62-63
+changedetectionio/store/__init__.py
+  s_5453cd196ecf31::t_66dc5839df58fb 690-698,900-901
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "32510fa3e92d0e1db719c45ad598c05e3373a82c",
+  "prompts": {},
+  "sessions": {
+    "s_5453cd196ecf31": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9609b35b-5333-44e1-bc08-55127ddca9c4",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
